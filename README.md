@@ -5,3 +5,4 @@ Estilo 10fastfingers pero con texto realista, como los que se pueden encontrar e
 Tener instalada la librería de tkinter
 
 ## Ejecución
+`python3 MechaTest.py`
